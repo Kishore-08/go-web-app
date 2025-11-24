@@ -4,7 +4,7 @@ image:
   repository: kishorekuruba08/go-web-app
   pullPolicy: IfNotPresent
   #override the tag value during deployment
-  tag: "19637544758"
+  tag: "19637586105"
 
 ingress:
   enabled: false
